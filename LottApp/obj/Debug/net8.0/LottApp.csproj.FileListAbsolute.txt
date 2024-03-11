@@ -1,0 +1,14 @@
+C:\Users\pktkr\source\repos\LottApp\LottApp\obj\Debug\net8.0\LottApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pktkr\source\repos\LottApp\LottApp\obj\Debug\net8.0\LottApp.AssemblyInfoInputs.cache
+C:\Users\pktkr\source\repos\LottApp\LottApp\obj\Debug\net8.0\LottApp.AssemblyInfo.cs
+C:\Users\pktkr\source\repos\LottApp\LottApp\obj\Debug\net8.0\LottApp.csproj.CoreCompileInputs.cache
+C:\Users\pktkr\source\repos\LottApp\LottApp\bin\Debug\net8.0\LottApp.exe
+C:\Users\pktkr\source\repos\LottApp\LottApp\bin\Debug\net8.0\LottApp.deps.json
+C:\Users\pktkr\source\repos\LottApp\LottApp\bin\Debug\net8.0\LottApp.runtimeconfig.json
+C:\Users\pktkr\source\repos\LottApp\LottApp\bin\Debug\net8.0\LottApp.dll
+C:\Users\pktkr\source\repos\LottApp\LottApp\bin\Debug\net8.0\LottApp.pdb
+C:\Users\pktkr\source\repos\LottApp\LottApp\obj\Debug\net8.0\LottApp.dll
+C:\Users\pktkr\source\repos\LottApp\LottApp\obj\Debug\net8.0\refint\LottApp.dll
+C:\Users\pktkr\source\repos\LottApp\LottApp\obj\Debug\net8.0\LottApp.pdb
+C:\Users\pktkr\source\repos\LottApp\LottApp\obj\Debug\net8.0\LottApp.genruntimeconfig.cache
+C:\Users\pktkr\source\repos\LottApp\LottApp\obj\Debug\net8.0\ref\LottApp.dll
